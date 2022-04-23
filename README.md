@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marios Daskalas</h1>
 <h3 align="center">A passionate Web developer from Greece</h3>
 
-- 🔭 I’m currently enrolled at [Codecademy](https://www.codecademy.com/) Platform.
+- 🔭 I’m currently enrolled at [Codecademy](https://www.codecademy.com/)
 
 - 🌱 I’m currently learning **Bootstrap & React**
 
