@@ -1,3 +1,3 @@
-Simplicity is often one of the greatest strengths.
+<i>Simplicity is often one of the greatest strengths.</i>
 
-- Erik Spoelstra
+<i>- Erik Spoelstra</i>
