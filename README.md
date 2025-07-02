@@ -2,3 +2,6 @@
 <br>
 <br>
 <i>— Walter O’Brien</i>
+<br>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mariosdaskalas)
