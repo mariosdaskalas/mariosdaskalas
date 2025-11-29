@@ -14,3 +14,10 @@
 - [crawlie](https://github.com/mariosdaskalas/crawlie): 🕸️ Python CLI program to discover subdomains, folders and crawling.<br>
 - [autowp](https://github.com/mariosdaskalas/autowp): 🌐 Python CLI program that automates WordPress tasks.<br>
 - [stegpi](https://github.com/mariosdaskalas/stegpi): 👀 Steganography with Python: Hiding Messages in Images.<br>
+
+## 🩵 Go Projects
+
+- [goval](https://github.com/mariosdaskalas/goval): 💳 Go CLI program that validates credit card numbers.<br>
+- [goweather](https://github.com/mariosdaskalas/goweather): 🌤️ Go CLI program that fetches weather data via OpenWeatherMap API.<br>
+- [goqrcode](https://github.com/mariosdaskalas/goqrcode): ⛶ Go CLI program that generates QR codes based on user input.<br>
+- [gopress](https://github.com/mariosdaskalas/gopress): 🗂️ Go program that compress and decompress files.<br>
